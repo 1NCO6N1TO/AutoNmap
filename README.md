@@ -40,5 +40,5 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
 ## 🧑‍💻 Autor
 
-- **Tu Nombre** - [GitHub]()
+- **Tu Nombre** - [GitHub](https://github.com/1NCO6N1TO)
 
