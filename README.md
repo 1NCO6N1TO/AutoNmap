@@ -19,7 +19,7 @@ Este script de Bash valida una dirección IP ingresada y realiza un escaneo de p
 Clona este repositorio y navega hasta el directorio:
 
 ```bash
-git clone https://github.com/tu_usuario/port-scanner.git
+git clone https://github.com/1NCO6N1TO/AutoNmap.git
 cd port-scanner
 ```
 
@@ -40,5 +40,5 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
 ## 🧑‍💻 Autor
 
-- **Tu Nombre** - [GitHub](https://github.com/tu_usuario)
+- **Tu Nombre** - [GitHub]()
 
