@@ -1,4 +1,4 @@
-# 🛠️ Port Scanner Script
+# 🛠️ AutoNmap
 
 Este script de Bash valida una dirección IP ingresada y realiza un escaneo de puertos utilizando `nmap`. Los mensajes de estado y error están mejorados con colores para mayor claridad. Fue creado con el objetivo de automatizar los escaneos de puertos y versiones/servicios utilizando `nmap`.
 
